@@ -1,3 +1,18 @@
+/******************************************************************************** 
+*  BTI425 – Assignment 1 
+*  
+*  I declare that this assignment is my own work in accordance with Seneca's 
+*  Academic Integrity Policy: 
+*  
+*  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html 
+*  
+*  Name: Jerry Nwachi Student ID: 188159214 Date: 17/01/2025 
+* 
+*  Published URL: https://assignment1-bti-425.vercel.app/ 
+* 
+********************************************************************************/ 
+
+
 const express = require('express');
 const app = express();
 const ListingsDB = require("./modules/listingsDB.js");
